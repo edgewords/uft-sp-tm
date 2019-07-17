@@ -4,3 +4,5 @@ Browser("Edgewords Shop – e-commerce").Page("Cap – Edgewords Shop").WebButto
 Browser("Edgewords Shop – e-commerce").Page("Cap – Edgewords Shop").Link("View cart").Click @@ script infofile_;_ZIP::ssf4.xml_;_
 Browser("Edgewords Shop – e-commerce").Page("Cart – Edgewords Shop").WebTable("Product").Check CheckPoint("Product") @@ script infofile_;_ZIP::ssf5.xml_;_
 Browser("Edgewords Shop – e-commerce").Close
+Reporter.ReportEvent micDone,"Test Completed","The test has finished!"
+
