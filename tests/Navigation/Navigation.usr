@@ -38,9 +38,11 @@ Version=14.51
 Database=
 File Content=
 Insight=
+Silverlight=
 Windows Applications=
 TEA=
 Web=
+WPF=
 XML=
 
 [ExtraFiles]

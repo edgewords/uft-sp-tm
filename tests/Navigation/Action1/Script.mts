@@ -4,3 +4,5 @@ Browser("Edgewords Shop – e-commerce").Page("Edgewords Shop – e-commerce").L
 Browser("Edgewords Shop – e-commerce").Page("Checkout – Edgewords Shop").Link("My account").Click @@ script infofile_;_ZIP::ssf4.xml_;_
 Browser("Edgewords Shop – e-commerce").Page("Checkout – Edgewords Shop").Link("My account").Click @@ script infofile_;_ZIP::ssf5.xml_;_
 Browser("Edgewords Shop – e-commerce").Page("My account – Edgewords").Link("Home").Click @@ script infofile_;_ZIP::ssf6.xml_;_
+Browser("Edgewords Shop – e-commerce").Close()
+
